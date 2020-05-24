@@ -1,7 +1,9 @@
 Movie Recommendation Engine using Content Based Filtering: Project Overview
 ----
-Movie Pic 
-Source
+
+![Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdata.world%2Fpriyankad0993%2Ftop-50-imdb-movies-based-on-ratings&psig=AOvVaw2YhCgzoK6hWLm_OgG0p1C-&ust=1590417860110000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC4ta7ezOkCFQAAAAAdAAAAABAD)
+
+<img src ='pictures/movies.png' width = '500' height = '350'>
 
 - Using the IMDB movie dataset taken from Kaggle, the aim of this project was to create a recommendation engine using content based filtering(based on the plot of each movie). 
 
@@ -12,7 +14,11 @@ Dataset: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 Data Exploration
 -- 
+<img src ='pictures/yearly_movies.png' width = '400' height = '250'>
 
+<img src ='pictures/genres.png' width = '400' height = '250'>
+
+<img src ='pictures/studio.png' width = '400' height = '250'>
 
 Data Cleaning
 -- 
@@ -33,5 +39,7 @@ Consine Similarity Matrix
 
 Recommendation
 ---
+
+<img src ='pictures/recommendatons.png' width = '450' height = '300'>
 
 
